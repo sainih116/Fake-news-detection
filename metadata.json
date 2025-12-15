@@ -1,0 +1,5 @@
+{
+  "name": "Fake News Detector",
+  "description": "An intelligent web application that leverages the Gemini API to analyze news articles for authenticity and combat misinformation.",
+  "requestFramePermissions": []
+}

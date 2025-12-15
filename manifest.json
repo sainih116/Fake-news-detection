@@ -1,0 +1,16 @@
+{
+  "short_name": "News Detector",
+  "name": "Fake News Detector",
+  "description": "An intelligent web application that leverages the Gemini API to analyze news articles for authenticity and combat misinformation.",
+  "icons": [
+    {
+      "src": "/components/icons/AppIcon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#16a34a",
+  "background_color": "#f9fafb"
+}
